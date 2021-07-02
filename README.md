@@ -1,1 +1,1 @@
-# Gesture-Controlled-Wheelchair-Using-ATmega32
+Wheelchairs are the one that are useful to the people who are not able to walk. The people who sit on the wheelchairs control it sometimes through the hands. What if there is an application that can control the wheelchair through the gestures? Yes, it is possible through the use of gesture controlled wheelchair using ATmega32 application.  In this technique in which the gestures or hand movements are being used by the people. This will be one of the interesting applications that one can work on and implement in real time world.
